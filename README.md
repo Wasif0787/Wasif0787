@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **wasifhussain787@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OtYEBtPaiIoyQK2zgG8YwWThmuK85gjX/view?usp=drive_link](https://drive.google.com/file/d/1OtYEBtPaiIoyQK2zgG8YwWThmuK85gjX/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1OtYEBtPaiIoyQK2zgG8YwWThmuK85gjX/view?usp=drive_link)
 
 - ⚡ Fun fact **I am Vengeance**
 
