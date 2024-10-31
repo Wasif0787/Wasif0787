@@ -42,3 +42,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
+## Hacktoberfest 2024 Badges
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+  [![An image of @wasif0787's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wasif0787)](https://holopin.io/@wasif0787)
+</div>
