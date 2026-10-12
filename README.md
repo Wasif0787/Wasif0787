@@ -1,47 +1,70 @@
 <h1 align="center">Hi 👋, I'm Wasif Hussain</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">System Engineer at Tata Consultancy Services | Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **NextJs**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-wasif-101.vercel.app/](https://portfolio-wasif-101.vercel.app/)
-
-- 📫 How to reach me **wasifhussain787@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1OtYEBtPaiIoyQK2zgG8YwWThmuK85gjX/view?usp=drive_link)
-
-- ⚡ Fun fact **I am Vengeance**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/787wasifhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="787wasifhussain" height="30" width="40" /></a>
-<a href="https://fb.com/wasif.hsn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wasif.hsn" height="30" width="40" /></a>
-<a href="https://instagram.com/wasif.hsn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wasif.hsn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/wasifhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wasifhussain" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/wasifhussain787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="wasifhussain787" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://portfoliowasif.vercel.app">Portfolio</a> •
+  <a href="https://linkedin.com/in/787wasifhussain">LinkedIn</a> •
+  <a href="mailto:wasifhussain787@gmail.com">Email</a> •
+  <a href="https://github.com/Wasif0787">GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## About me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasif0787&show_icons=true&locale=en&layout=compact" alt="wasif0787" /></p>
+I'm a System Engineer at Tata Consultancy Services, focused on building scalable, reliable web applications. I work across frontend and backend technologies and enjoy improving product usability, performance, and maintainability.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasif0787&" alt="wasif0787" /></p>
+## Experience
 
-## Hacktoberfest 2024 Badges
-[![An image of @wasif0787's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wasif0787)](https://holopin.io/@wasif0787)
+### System Engineer — Tata Consultancy Services
+**April 2025 – Present** · Application Reliability Engineering
 
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
-</div>
+- Built a KPI-based maturity assessment module with a chat-style interface that guides users through structured questions and provides automated recommendations.
+- Helped modularize the ARE platform by separating tightly coupled tools into independent applications, improving scalability and maintainability.
+- Contributed to a central platform of 90+ tools used daily by 200+ users across accounts.
+- Improved user experience with code splitting, lazy loading, and shimmer loading states; the platform averages a Lighthouse score of 83.
+- **Technologies:** React, TypeScript, Zod, Tailwind CSS, Redux, RTK Query, React Router, Radix UI, AG Grid, ECharts, React Hook Form, Python, Flask, SQLAlchemy.
+
+### Full Stack Developer Intern — Solvative
+**July 2024 – November 2024**
+
+- Developed and maintained an internal interview scheduler for candidate management and interview coordination.
+- Built backend features for candidate profiles, interview schedules, and email notifications.
+- Integrated Google APIs to generate Google Meet links and streamline scheduling.
+- **Technologies:** Next.js, JavaScript, MongoDB.
+
+## Projects
+
+### [ImageFusion.ai](https://imageaifusion.vercel.app/home) — SaaS application
+
+- Built image and video upload, transformation, and compression workflows using the Cloudinary API.
+- Integrated Clerk authentication with secure Google sign-in.
+- **Technologies:** Next.js, Cloudinary, Clerk, Prisma, NeonDB, Tailwind CSS, DaisyUI, Axios.
+- [Source code](https://github.com/Wasif0787/Clloudinary-SAAS)
+
+### [Threads](https://threads-wasif.netlify.app) — Social media app
+
+- Developed JWT-based authentication and social features for creating posts, liking, commenting, and following users.
+- **Technologies:** React, Node.js, Express, MongoDB, Chakra UI, Context API, JWT, Cloudinary.
+- [Source code](https://github.com/Wasif0787/Threads-Clone)
+
+## Skills
+
+- **Languages:** Java, JavaScript, TypeScript, Python
+- **Frontend:** React, Next.js, Redux, Zustand, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express, Flask, REST APIs
+- **Databases:** MongoDB, PostgreSQL, MySQL, Supabase
+- **Cloud and APIs:** Cloudinary API, Google APIs
+- **Tools:** Git, GitHub, GitLab, Postman, Jira
+- **Methods:** Agile development
+
+## Education
+
+**B.Tech in Computer Science and Engineering** — Aliah University · July 2020 – June 2024 · Kolkata, India · CGPA: 8.64/10
+
+Coursework: Operating Systems, Database Management Systems, Object-Oriented Programming, Computer Networks, Data Structures and Algorithms.
+
+## GitHub stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wasif0787&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasif0787" alt="GitHub contribution streak" />
+</p>
